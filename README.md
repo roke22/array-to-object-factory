@@ -1,5 +1,9 @@
 # PHP Hydrator - Array to Object Factory
 
+## How to install?
+
+composer require roke22/array-to-object-factory
+
 ## What is array to object factory?
 
 This is a utility that help you to create a class and all dependencies of the class without mapping the values.
